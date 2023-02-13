@@ -3,7 +3,7 @@ import Button from "react-bootstrap/Button";
 import Form from "react-bootstrap/Form";
 import { Card, Col, Container, Row } from "react-bootstrap";
 import { useNavigate } from "react-router-dom";
-
+fgnfn
 const AddProduct = () => {
   const navigate = useNavigate();
   const [error, setError] = useState(false);
